@@ -1,8 +1,8 @@
-### fiveflight
+# fiveflight
 ## Run the App
 Entrypoint to the application is the `api/flaskapi.py` file.
 
-Required libraries:
+### Required libraries:
 `Flask`
 `SQLAlchemy`
 `Pytest`
